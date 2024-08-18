@@ -32,8 +32,10 @@ py menu.py
 
 # 🆙 Implementação futura
 * Estou planejando implementar uma opção que permita inserir uma cifra e, em seguida, gerar a descriptografia quando a chave for correspondente
-# ✒️ Autor
+# ✒️ Colaboradores
 * <p><a href="https://github.com/Mathbull">Matheus Santos </a></p>
+* <p><a href="https://github.com/viniz0x">Pedro Vinícius </a></p>
+
 
 ---
 <p align=center>⌨️ com 🫀 por <a href="https://github.com/Mathbull">Matheus Santos </a></p>
